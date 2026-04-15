@@ -147,7 +147,7 @@ Search Results: 6
 ---
 ## Test Execution Report
 
-![Test Results](assets/test-results.png)
+![Test Results](asserts/Screenshot 2026-04-15 123204.png)
 
 ## Technical Stack
 
