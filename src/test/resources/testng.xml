@@ -1,0 +1,22 @@
+
+<suite name="IPL Suite">
+
+    <listeners>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+
+    <test name="Chrome Tests">
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+			
+			<class name="tests.FooterTest"/>
+			<class name="tests.TeamsTest"/>
+			<class name="tests.PointsTableTest"/>
+			<class name="tests.NewsTest"/>
+			
+        </classes>
+
+    </test>
+
+</suite>
